@@ -1,0 +1,25 @@
+[	{	"statement":"What is the capital of India?",
+		"options": ["New Delhi", "Mumbai", "Kolkata", "Bangalore"],
+		"correct" :"New Delhi"
+	},
+	{
+		"statement":"Who is India's first Prime Minister?",
+		"options": ["Indira Gandhi", "Mahatma Gandhi", "Lal Bahadur Sashtri", "Pt.Nehru"],
+		"correct" :"Pt.Nehru"
+	},
+	{
+		"statement" :"Which river is the longest river?",
+		"options" :["Nile","Ganga","Amazon","Thames"],
+		"correct":"Ganga"
+	},
+	{
+		"statement":"When did India get Independance?",
+		"options" :["1947","1950","1948","1949"],
+		"correct":"1947"
+	},
+	{
+		"statement":"Where is Taj Mahal?",
+		"options": ["Delhi", "Nagpur","Agra","Mumbai"],
+		"correct":"Agra"
+	}
+]

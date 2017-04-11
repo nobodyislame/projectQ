@@ -1,0 +1,19 @@
+<div ui-view>
+	<div class="container">
+		<div class="row" id="submit">
+			<div class="col-sm-8" >
+				<input type="text" placeholder="Enter your name" ng-model="input.name">
+			</div>
+			<div class="col-sm-4">
+				<button ng-click="handleData()">Submit</button>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12" ng-show="error" id="msg">
+				{{message}}
+			</div>
+		</div>
+	</div>
+</div>
+
+
